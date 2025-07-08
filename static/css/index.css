@@ -133,5 +133,9 @@ body {
   font-size: smaller;
 }
 
-
+.center-img {
+  display: block;
+  margin: 1.2rem auto;
+  max-width: 100%;
+}
 
